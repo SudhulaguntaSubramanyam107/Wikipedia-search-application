@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container {
+    font-family: "Roboto";
+    background-image: linear-gradient(to bottom,blue,pink);
+}
+
+.wiki-search-header {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d5cdcd;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    margin-bottom: 40px;
+}
+
+.wiki-logo {
+    width: 150px;
+    margin-bottom: 30px;
+    background-image: linear-gradient(to left, navy, teal);
+    border-radius: 50px;
+}
+
+.search-input {
+    font-size: 18px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d5cdcd;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.search-results {
+    width: 100%;
+    padding-left: 20px; 
+    color:white
+}
+
+.result-item {
+    margin-bottom: 20px; 
+    color:white
+}
+
+.result-title {
+    font-size: 22px; 
+    color:white
+}
+
+.link-description {
+    color: #444444;
+    font-size: 15px; 
+    color:white
+}
+
+.result-url {
+    color:white;
+    text-decoration: none; 
+
+}
